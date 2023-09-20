@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">My Stats</h2>
+<h3 align="left">My Stats</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Profile Views</h2>
+<h3 align="left">Profile Views</h1>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Skills</h2>
+<h3 align="left">Skills</h1>
 
 ###
 
