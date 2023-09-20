@@ -1,10 +1,26 @@
 <br clear="both">
 
-<p align="center">The concept of being too early doesn't exist, but being too late does. Why start later if you can do it now?</p>
+<div align="center">
+  <img height="300" src="https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="center", >"The struggle itself is enough to fill a man's heart" - Albert Camus<br>The Myth of Sisyphus (1942)</p>
+
+###
+
+<p align="center" font-family="cursive">The concept of being too early doesn't exist, but being too late does. Why start later if you can do it now?</p>
 
 ###
 
 <h2 align="left">My Stats</h2>
+
+###
+
+<p align="left">Hello, I'm new here.</p>
 
 ###
 
