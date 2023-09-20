@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">📈 My Stats</h2>
+<h2 align="left">My Stats</h2>
 
 ###
 
-<p align="left">👋 Hello, I'm new here.</p>
+<p align="left">Hello, I'm new here.</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">👀 Profile Views</h2>
+<h2 align="left">Profile Views</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">📖 My Skills</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
