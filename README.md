@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg"  />
+  <img height="250" src="https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg"  />
 </div>
 
 ###
