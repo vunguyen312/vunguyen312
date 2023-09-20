@@ -8,11 +8,7 @@
 
 <br clear="both">
 
-<p align="center", >"The struggle itself is enough to fill a man's heart" - Albert Camus<br>The Myth of Sisyphus (1942)</p>
-
-###
-
-<p align="center" font-family="cursive">The concept of being too early doesn't exist, but being too late does. Why start later if you can do it now?</p>
+<p align="center", style="font-family:Cedarville Cursive">"The struggle itself is enough to fill a man's heart" - Albert Camus<br>The Myth of Sisyphus (1942)</p>
 
 ###
 
