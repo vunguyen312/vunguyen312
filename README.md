@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<!--<div align="center">
   <img height="250" src=""  />
 </div>
 
@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center"></p>
+<p align="center"></p>-->
 
 ###
 
