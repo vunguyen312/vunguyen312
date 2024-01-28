@@ -1,14 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg"  />
+  <img height="250" src=""  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="center">"The struggle itself is enough to fill a man's heart" - Albert Camus<br>The Myth of Sisyphus (1942)</p>
+<p align="center"></p>
 
 ###
 
