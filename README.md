@@ -1,41 +1,23 @@
 <br clear="both">
 
-<!--<div align="center">
-  <img height="250" src=""  />
-</div>
+* 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 
-###
+<br/>
 
-<br clear="both">
+## Github Stats
 
-<p align="center"></p>-->
-
-###
-
-<h2 align="left">My Stats</h2>
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vunguyen312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vunguyen312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vunguyen312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" width="500" height="150" alt="Stats Chart"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vunguyen312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" width="500" height="150" alt="Languages Chart"  />
 </div>
 
-###
+<br/>
 
-<h2 align="left">Profile Views</h2>
+## My Skills
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vunguyen312/count.svg?"  />
-</div>
-
-###
-
-<h2 align="left">My Skills</h2>
-
-###
+<br/>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -59,4 +41,6 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" height="30" alt="bitbucket logo"  />
 </div>
 
-###
+<hr>
+
+<a href="https://ko-fi.com/vunguyen312"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi "></a>
