@@ -45,4 +45,6 @@
 
 <br/>
 
-<a align="center" href="https://ko-fi.com/vunguyen312"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi "></a>
+<div align="center>
+  <a align="center" href="https://ko-fi.com/vunguyen312"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi "></a>
+<div/>
