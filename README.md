@@ -1,6 +1,7 @@
 <br clear="both">
 
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
+* 📚 Currently learning Rust ⚙️
 
 <br/>
 
