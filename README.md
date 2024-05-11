@@ -1,7 +1,7 @@
 <br clear="both">
 
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
-* 📚 Currently learning Rust ⚙️ and React 
+* 📚 Currently learning Rust ⚙️ and React ⚛️
 
 <br/>
 
