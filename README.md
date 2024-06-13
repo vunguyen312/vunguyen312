@@ -2,6 +2,7 @@
 
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Rust ⚙️ and React ⚛️
+* 📚 Currently focused on Exams
 
 <br/>
 
