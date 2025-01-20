@@ -3,6 +3,8 @@
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Rust ⚙️
 
+Coming back after exams!
+
 <br/>
 
 ## Github Stats
