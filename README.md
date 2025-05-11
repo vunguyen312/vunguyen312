@@ -1,5 +1,6 @@
-## Hey there! 👋
+## Hey, I'm Vu! 👋
 
+* 📖 I'm currently an incoming Computer Science Major at the University of Waterloo
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Rust ⚙️
 
