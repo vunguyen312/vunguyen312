@@ -4,8 +4,6 @@
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Electron ⚡
 
-Coming back after exams!
-
 <br/>
 
 ## Github Stats
