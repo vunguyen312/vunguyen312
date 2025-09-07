@@ -1,6 +1,6 @@
 ## Hey, I'm Vu! 👋
 
-* 📖 I'm currently an incoming Computer Science Major at the University of Waterloo 🏫
+* 📖 I'm currently a first-year in Computer Science Major at the University of Waterloo 🏫
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Electron ⚡
 
