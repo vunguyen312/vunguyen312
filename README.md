@@ -4,6 +4,8 @@
 * 💻 Aspiring Software Developer and avid Sleep Enthusiast 💤
 * 📚 Currently learning Electron ⚡
 
+Currently Building: [Zector Editor](https://github.com/vunguyen312/zector) 🪲
+
 <br/>
 
 ## My Skills
