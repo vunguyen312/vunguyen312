@@ -47,9 +47,3 @@ Currently Building: [Zector Editor](https://github.com/vunguyen312/zector) 🪲
   <img width="8" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
 </div>
-
-<hr>
-
-<div align="center">
-  <a href="https://ko-fi.com/vunguyen312"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi "></a>
-</div>
