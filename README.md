@@ -1,7 +1,7 @@
 ## Hey, I'm Vu! 👋
 
 * 📖 I'm currently a first-year Computer Science Major at the University of Waterloo 🏫
-* 💻 Aspiring Software Developer and avid Web Novel Reader (Currently reading Shadow Slave) 💤
+* 💻 Software Developer and avid Web Novel Reader (Currently reading Shadow Slave) 💤
 * 📚 Currently learning Electron ⚡
 
 Building: [Zector Editor](https://github.com/vunguyen312/zector) 🪲
