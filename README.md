@@ -1,4 +1,4 @@
-*  I'm currently a first-year Computer Science Major at the University of Waterloo
+*  I'm currently a second-year Computer Science Major at the University of Waterloo
 *  Software Developer and avid Web Novel Reader (Currently reading Shadow Slave)
 *  Currently learning Electron
 
