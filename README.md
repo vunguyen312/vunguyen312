@@ -1,6 +1,5 @@
 *  Second-year Computer Science Major @ University of Waterloo
 *  Software Developer and avid Web Novel Reader (Currently reading Shadow Slave)
-*  Currently learning Electron
 
 Building: [Zector Editor](https://github.com/vunguyen312/zector)
 
