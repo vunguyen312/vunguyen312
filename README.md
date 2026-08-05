@@ -1,5 +1,6 @@
 *  Second-year Computer Science Major @ University of Waterloo
 *  Software Developer and avid Web Novel Reader (Currently reading Shadow Slave)
+*  (omp user btw)
 
 Building: [Zector Editor](https://github.com/vunguyen312/zector)
 
