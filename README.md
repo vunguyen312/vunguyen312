@@ -1,5 +1,5 @@
 *  Second-year Computer Science Major @ University of Waterloo
-*  Software Developer and avid Web Novel Reader (Currently reading Shadow Slave)
+*  Software Developer and avid Reader (Currently reading Mahoutsukai no Yoru)
 
 Building: [Zector Editor](https://github.com/vunguyen312/zector)
 
