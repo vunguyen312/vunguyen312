@@ -1,5 +1,5 @@
 *  Second-year Computer Science Major @ University of Waterloo
-*  Software Developer and avid Reader (Currently reading Mahoutsukai no Yoru)
+*  Software Developer and avid Reader (Currently reading Witch on the Holy Night)
 
 Building: [Zector Editor](https://github.com/vunguyen312/zector)
 
