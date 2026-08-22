@@ -21,5 +21,4 @@ Building: [Zector Editor](https://github.com/vunguyen312/zector)
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=for-the-badge" height="30" alt="puppeteer logo" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
 </div>
