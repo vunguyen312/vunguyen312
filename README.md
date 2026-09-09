@@ -1,5 +1,5 @@
 *  Second-year Computer Science Major @ University of Waterloo
-*  Software Developer and avid Reader (Currently reading Witch on the Holy Night)
+*  ML + Web Dev and avid Reader (Currently reading Witch on the Holy Night)
 
 Building: [A cool deep learning framework](https://github.com/vunguyen312/deepts)
 
